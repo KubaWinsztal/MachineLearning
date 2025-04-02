@@ -5,3 +5,5 @@ Praca domowa 1: https://github.com/KubaWinsztal/MachineLearning/blob/main/Zadani
 Praca domowa 2: https://github.com/KubaWinsztal/MachineLearning/blob/main/PD2.ipynb
 
 Praca domowa 3: https://github.com/KubaWinsztal/MachineLearning/blob/main/PD3.ipynb
+
+Praca domowa 4: https://github.com/KubaWinsztal/MachineLearning/blob/main/PD4.ipynb
