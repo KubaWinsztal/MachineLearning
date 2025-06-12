@@ -19,3 +19,5 @@ Praca domowa 8: https://github.com/KubaWinsztal/MachineLearning/blob/main/PD8.ip
 Praca domowa 9: https://github.com/KubaWinsztal/MachineLearning/blob/main/PD9.ipynb
 
 Praca domowa 10: https://github.com/KubaWinsztal/MachineLearning/blob/main/PD10.ipynb
+
+Praca domowa 11: https://github.com/KubaWinsztal/MachineLearning/blob/main/PD11.ipynb
